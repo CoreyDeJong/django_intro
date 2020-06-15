@@ -22,6 +22,5 @@ urlpatterns = [
     # home path
     path('', include('snickers.urls'))
 
-    # missing the include part about.urls?
-    path('about/', include('about.urls'))
+
 ]
