@@ -1,0 +1,1 @@
+https://github.com/CoreyDeJong/django_intro/blob/master/README.md
